@@ -1,0 +1,8 @@
+"./Driver/src/gpio.o"
+"./Driver/src/i2c.o"
+"./Driver/src/spi.o"
+"./Driver/src/stm32f0xx_rcc_driver.o"
+"./Driver/src/usart.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32g070rbtx.o"

@@ -1,0 +1,11 @@
+../Driver/src/usart.c:12:6:USART_IRQInterruptConfig	4
+../Driver/src/usart.c:33:9:USART_GetFlagStatus	1
+../Driver/src/usart.c:38:6:USART_PeriClockControl	15
+../Driver/src/usart.c:116:6:USART_Init	9
+../Driver/src/usart.c:229:6:USART_SendData	6
+../Driver/src/usart.c:291:6:USART_ReceiveData	6
+../Driver/src/usart.c:368:9:USART_SendDataIT	2
+../Driver/src/usart.c:407:9:USART_ReceiveDataIT	2
+../Driver/src/usart.c:500:6:USART_SetBaudRate	4
+../Driver/src/usart.c:570:6:USART_IRQHandling	20
+../Driver/src/usart.c:781:6:USART_ApplicationEventCallback	1

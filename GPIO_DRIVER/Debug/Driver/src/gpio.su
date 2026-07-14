@@ -1,0 +1,11 @@
+../Driver/src/gpio.c:17:6:GPIO_PeriClockControl	16	static
+../Driver/src/gpio.c:86:6:GPIO_Init	48	static
+../Driver/src/gpio.c:188:6:GPIO_DeInit	16	static
+../Driver/src/gpio.c:217:10:GPIO_ReadFromInputPin	24	static
+../Driver/src/gpio.c:225:10:GPIO_ReadFromInputPort	24	static
+../Driver/src/gpio.c:233:6:GPIO_WriteToOutputPin	16	static
+../Driver/src/gpio.c:248:6:GPIO_WriteToOutputPort	16	static
+../Driver/src/gpio.c:256:6:GPIO_ToggleOutoutPin	16	static
+../Driver/src/gpio.c:262:6:GPIO_IRQInterruptConfig	16	static
+../Driver/src/gpio.c:283:6:GPIO_IRQPriorityConfig	32	static
+../Driver/src/gpio.c:295:6:GPIO_IRQHandling	16	static

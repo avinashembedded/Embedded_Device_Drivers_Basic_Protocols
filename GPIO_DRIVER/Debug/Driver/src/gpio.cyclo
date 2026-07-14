@@ -1,0 +1,11 @@
+../Driver/src/gpio.c:17:6:GPIO_PeriClockControl	15
+../Driver/src/gpio.c:86:6:GPIO_Init	12
+../Driver/src/gpio.c:188:6:GPIO_DeInit	7
+../Driver/src/gpio.c:217:10:GPIO_ReadFromInputPin	1
+../Driver/src/gpio.c:225:10:GPIO_ReadFromInputPort	1
+../Driver/src/gpio.c:233:6:GPIO_WriteToOutputPin	2
+../Driver/src/gpio.c:248:6:GPIO_WriteToOutputPort	1
+../Driver/src/gpio.c:256:6:GPIO_ToggleOutoutPin	1
+../Driver/src/gpio.c:262:6:GPIO_IRQInterruptConfig	4
+../Driver/src/gpio.c:283:6:GPIO_IRQPriorityConfig	1
+../Driver/src/gpio.c:295:6:GPIO_IRQHandling	3
